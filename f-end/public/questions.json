@@ -1,0 +1,52 @@
+[
+    {
+        "type": "matching",
+        "name": "Zuordnung Arbeiten mit Frameworks und ohne",
+        "text": "Ordnen Sie folgende Begriffe zu!"
+    },
+    {
+        "type": "matching",
+        "name": "Zuordnung Verschlüselungsverfahren",
+        "text": "Ordnen Sie den angegebenen Verschlüssselungsalgorithmen das entsprechende Verschlüsselungsverfahren zu!"
+    },
+    {
+        "type": "multichoice",
+        "name": "Aussagen zu PHP",
+        "text": "Welche Aussagen über PHP sind richtig?PHP ist ..."
+    },
+    {
+        "type": "multichoice",
+        "name": "Framework ja/nein",
+        "text": "Welche der folgenden Argumente sprechen FÜR die Verwendung eines Frameworks?"
+    },
+    {
+        "type": "multichoice",
+        "name": "JSON",
+        "text": "Welche Aussage zum JSON Format ist nicht zutreffend?JSON ..."
+    },
+    {
+        "type": "multichoice",
+        "name": "Linux",
+        "text": "Welche Linux-Distribution ist auf Sicherheits- und Penetrationstests von IT-Systemen spezialisiert?"
+    },
+    {
+        "type": "multichoice",
+        "name": "XML",
+        "text": "Welche der folgenden Aussagen ist falsch, bzw. trifft NICHT auf XML zu?XML..."
+    },
+    {
+        "type": "truefalse",
+        "name": "3-2-1 Regel",
+        "text": "Die 3-2-1 -Regel gibt Rückschlüsse in Bezug auf die Sicherheit eines Passwortes."
+    },
+    {
+        "type": "truefalse",
+        "name": "Einbettung von PHP in ein HTML-Script",
+        "text": "Man erkennt den Beginn von PHP-Quelltext innerhalb von HTML an folgendem TAG:&lt;?php &gt;"
+    },
+    {
+        "type": "truefalse",
+        "name": "Symmetrische Verschlüsselung",
+        "text": "Bei der Symmetrischen Verschlüsselung wird der Schlüssel vom Sender generiertund vor der Übertragung per HTTP an den Empfänger versendet."
+    }
+]
